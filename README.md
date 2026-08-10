@@ -3,9 +3,9 @@
 **Mục tiêu**: Xây dựng mô hình dự đoán phí bảo hiểm dựa trên tuổi, giới tính, BMI, số con, hút thuốc.
 
 **Kết quả**:
-- Phương trình: MPG = 47.31 - 0.00795 × Weight
-- MAE = 3 MPG, RMSE = 4 MPG
+- R² = 80,5%
+- MAE = 4.198 USD, RMSE = 5.991 USD
 
 **Công nghệ**: Python, pandas, scikit-learn, matplotlib
 
-**Dữ liệu**: Auto-MPG (Kaggle) - 398 mẫu xe 1970-1982
+**Dữ liệu**: Insurance Dataset (Kaggle) - 1.338 người
